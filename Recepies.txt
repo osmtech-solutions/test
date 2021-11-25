@@ -4,8 +4,15 @@ Welcome to Test Recepiec
 
 1] Kheer
 2] Kaju Katli
-
 3] Chicken
+
+4] Pizza
+5] Burger
+
+-> Added EKYC
+-> Added Promotion
+
+Done my changes.
 
 
 Thank you...
