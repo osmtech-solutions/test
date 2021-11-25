@@ -9,5 +9,10 @@ Welcome to Test Recepiec
 4] Pizza
 5] Burger
 
+-> Added EKYC
+-> Added Promotion
+
+Done my changes.
+
 
 Thank you...
